@@ -1,3 +1,3 @@
 # Quiz-Application Project
- a web application for quiz managment
+ an application for quiz managment
 
