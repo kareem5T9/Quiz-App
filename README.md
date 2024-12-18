@@ -1,3 +1,2 @@
 # Quiz-App
-#this app
 
