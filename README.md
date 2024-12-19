@@ -20,8 +20,12 @@
 5. Answer questions.
 6. you will see marks at the end of exam.
 ---
-### How to run this project
+#### How to run this project
 1. Download  visual studio code or any java ide as Eclipse.
 2. clone this repo and open it from netbeans using File->QuizApplication1.
 3. press the run button or click F5.
+---
+##### Technology used:
+1. java.
+2. visual studio code.
 ---
