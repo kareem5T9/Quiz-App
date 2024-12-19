@@ -22,7 +22,7 @@
 ---
 #### How to run this project
 1. Download  visual studio code or any java ide as Eclipse.
-2. clone this repo and open it from netbeans using File->beta/com/mycompany/quizapplication1.
+2. clone this repo and open it from visual studio code using File->beta/com/mycompany/quizapplication1.
 3. press the run button or click F5.
 ---
 ##### Technology used:
