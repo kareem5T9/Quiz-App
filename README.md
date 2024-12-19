@@ -29,7 +29,8 @@
 1. java.
 2. visual studio code.
 ---
-###### Screenshots:
+###### Screenshots
+
 ![ScreenShot_1](https://github.com/user-attachments/assets/b174b3de-ddf1-423a-9e08-e7eac9c21cb2)
 
 
@@ -43,12 +44,14 @@
 
 
 
+![ScreenShot_3](https://github.com/user-attachments/assets/3f08dd01-aa69-4dae-9ea8-539aff61786a)
 
 
 
 
 
 
+![ScreenShot_4](https://github.com/user-attachments/assets/116439cc-e8c4-47a1-bd84-8c07c8256188)
 
 
 
