@@ -11,7 +11,7 @@
 7. Add 4 optionals.
 8. Add correct optional(1-4).
 9. repeat steps (6,7,8) as many as you want to add more questions.
-
+---
 ### Scenerio(Student):
 1. Run the application from visual studio code(or any java ide as Eclipse).
 2. Register as Student(username:create your username  password:create your password).
