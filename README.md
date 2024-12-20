@@ -13,6 +13,7 @@
 9. repeat steps (6,7,8) as many as you want to add more questions.
 ---
 ### Scenerio(Student)
+
 1. Run the application from visual studio code(or any java ide as Eclipse).
 2. Register as Student(username:create your username  password:create your password).
 3. Login (username:set your username  password:set your password).
@@ -21,15 +22,18 @@
 6. you will see marks at the end of exam.
 ---
 #### How to run this project
+
 1. Download  visual studio code or any java ide as Eclipse.
 2. clone this repo and open it from visual studio code using File->beta/com/mycompany/quizapplication1.
 3. press the run button or click F5.
 ---
 ##### Technology used:
+
 1. java.
 2. visual studio code.
 ---
 ###### Screenshots
+
 
 ![ScreenShot_1](https://github.com/user-attachments/assets/b174b3de-ddf1-423a-9e08-e7eac9c21cb2)
 
@@ -98,6 +102,7 @@
 ---
 
    ###### video output:
+  
 
 
 
